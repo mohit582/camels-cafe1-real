@@ -1,0 +1,6 @@
+{
+  "name": "Camel's Cafe",
+  "description": "A warm, premium modern website for Camel's Cafe in Qatar, showcasing our daily fresh pastries, custom coffee brews, premium desserts, and quick Talabat ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
